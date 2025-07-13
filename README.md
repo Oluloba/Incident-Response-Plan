@@ -18,4 +18,4 @@ This project presents an incident response plan for a ransomware attack at Vati 
 Contained the attack within 48 hours, restored critical systems without paying ransom, and improved organizational cybersecurity posture.
 
 ## Full Report 
-The complete Incident Response Plan is available here: Incident_Response_Plan-_Oluwatobiloba_Aladejare_(1).pdf
+The complete Incident Response Plan is available here: Vati_Incident_Response_Plan.pdf
